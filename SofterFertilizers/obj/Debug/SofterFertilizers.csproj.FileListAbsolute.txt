@@ -1,0 +1,752 @@
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.mainForm.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Properties.Resources.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\bin\Debug\Database.mdf
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\bin\Debug\Database_log.ldf
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\bin\Debug\SofterFertilizers.exe.config
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\bin\Debug\SofterFertilizers.exe
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\bin\Debug\SofterFertilizers.pdb
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.exe
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.pdb
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.storeAddingUC.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.companiesUC.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.typeUC.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.unitsUC.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.sortUC.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.subUnit.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.saveToExcel.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\bin\Debug\ExcelLibrary.dll
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.ResolveComReference.cache
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.CopyComplete
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.importExcel.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.categoryQuantities.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.categoryAddPermission.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.categorySubtractPermission.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.destroyedAdding.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.transportStore.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.showStore.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.purchases.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.Suppilers.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.safeUC.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.returnedPurchasesUC.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.dollarCalculations.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.suppliersBalances.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.customers.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.sales.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.statement.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.customesrBalances.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.duesUC.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.payDivision.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.ReDivideDebts.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.exportCustomers.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.salesFlow.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.companySalesFlow.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.typeSalesFlow.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.overallSaleFlow.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.salesBill.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.highestBought.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.soloPackage.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.soloPackageCategory.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeCategoryReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customersDetail.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerBalanceDetails.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerSalesBillsResport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customersCategoryReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerCompanyReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerTypeReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerHghestsales.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerQuantityCompare.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivision.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisonDate.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisionPayment.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerPayment.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisionDetails.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesFlow.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.returnedPurchasesReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesCompanyFlow.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.overAllPurchasesFlow.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesBill.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.transportReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierCategoryReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierDetails.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierTypeReports.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierBalance.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerCategorySumReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierCategorySumReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.supplierReturnedFlow.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierReturnedReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryList.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeCategoryReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryStoreReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeCompanyReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.StoreMinimumReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeMaximumReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.storeDestroyedReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeTransformReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeBalance.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.safeFlowReports.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.transferBetweenSafe.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentials.initialMoney.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentials.bankAccounts.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.fixedPotentials.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentailDamage.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.partners.partnersData.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.partners.partnersOperations.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.generalSpendings.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.anotherIncomes.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansOwners.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansDetails.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.payLoans.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceDetails.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceOwners.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.payAdvances.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employeesGeneralSettings.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employees.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employeeSpecifiedSettings.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.comeGoing.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.abscence.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.late.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.additional.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.wages.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.abscenceReports.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.comeGoingReports.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.additionalReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.lateReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.wagesReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.cashBalance.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.safeTransferReport.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryFlow.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.typeList.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.minusCategoryReports.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.historyCategory.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.add_subtractPermission.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.add_subtract_permission.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.spendingReports.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.partnerBalance.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.anotherIncomeReports.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.potentialDamageReprt.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.balanceReview.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.settings.addUsers.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.settings.usersPrevilege.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.login.resources
+C:\Users\pc\source\repos\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.usersTrafficReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\Database.mdf
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\Database_log.ldf
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\SofterFertilizers.exe.config
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\SofterFertilizers.exe
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\SofterFertilizers.pdb
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\ExcelLibrary.dll
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.ResolveComReference.cache
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.companiesUC.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.importExcel.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.safeUC.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.saveToExcel.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.sortUC.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.storeAddingUC.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.subUnit.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.typeUC.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.unitsUC.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceDetails.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceOwners.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.payAdvances.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.anotherIncomes.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.fixedPotentials.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.generalSpendings.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansDetails.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansOwners.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.payLoans.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.partners.partnersData.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.partners.partnersOperations.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentailDamage.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentials.bankAccounts.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentials.initialMoney.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.transferBetweenSafe.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.abscence.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.additional.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.comeGoing.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employees.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employeesGeneralSettings.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employeeSpecifiedSettings.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.late.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.abscenceReports.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.additionalReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.comeGoingReports.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.lateReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.wagesReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.wages.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.login.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.mainForm.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Properties.Resources.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.dollarCalculations.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.purchases.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.returnedPurchasesUC.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.Suppilers.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.suppliersBalances.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.anotherIncomeReports.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.balanceReview.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.partnerBalance.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.potentialDamageReprt.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.spendingReports.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerBalanceDetails.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerCategorySumReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivision.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisionDetails.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisionPayment.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisonDate.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerHghestsales.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerPayment.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerQuantityCompare.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerSalesBillsResport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customersCategoryReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customersDetail.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerCompanyReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerTypeReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.overAllPurchasesFlow.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesBill.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesCompanyFlow.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesFlow.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.returnedPurchasesReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.cashBalance.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.safeFlowReports.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.safeTransferReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.add_subtractPermission.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.add_subtract_permission.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryFlow.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryList.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryStoreReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.historyCategory.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.minusCategoryReports.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeBalance.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeCategoryReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeCompanyReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeMaximumReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.StoreMinimumReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeTransformReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.typeList.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.supplierReturnedFlow.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.transportReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.companySalesFlow.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.highestBought.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.overallSaleFlow.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.salesBill.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.salesFlow.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.soloPackage.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.soloPackageCategory.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeCategoryReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.typeSalesFlow.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierBalance.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierCategoryReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierCategorySumReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierDetails.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierReturnedReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierTypeReports.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.usersTrafficReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.customers.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.customesrBalances.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.duesUC.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.exportCustomers.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.payDivision.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.ReDivideDebts.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.sales.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.statement.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.settings.addUsers.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.settings.usersPrevilege.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.categoryAddPermission.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.categoryQuantities.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.categorySubtractPermission.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.destroyedAdding.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.showStore.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.storeDestroyedReport.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.transportStore.resources
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.CopyComplete
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.exe
+C:\Users\pc\Desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.pdb
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\Database.mdf
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\Database_log.ldf
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\SofterFertilizers.exe.config
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\SofterFertilizers.exe
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\SofterFertilizers.pdb
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\bin\Debug\ExcelLibrary.dll
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.ResolveComReference.cache
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.companiesUC.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.importExcel.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.safeUC.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.saveToExcel.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.sortUC.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.storeAddingUC.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.subUnit.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.typeUC.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.unitsUC.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceDetails.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceOwners.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.payAdvances.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.anotherIncomes.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.fixedPotentials.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.generalSpendings.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansDetails.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansOwners.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.payLoans.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.partners.partnersData.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.partners.partnersOperations.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentailDamage.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentials.bankAccounts.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentials.initialMoney.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.transferBetweenSafe.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.abscence.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.additional.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.comeGoing.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employees.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employeesGeneralSettings.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employeeSpecifiedSettings.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.late.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.abscenceReports.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.additionalReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.comeGoingReports.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.lateReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.wagesReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.employees.wages.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.login.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.mainForm.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Properties.Resources.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.dollarCalculations.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.purchases.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.returnedPurchasesUC.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.Suppilers.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.suppliersBalances.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.anotherIncomeReports.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.balanceReview.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.partnerBalance.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.potentialDamageReprt.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.spendingReports.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerBalanceDetails.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerCategorySumReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivision.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisionDetails.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisionPayment.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisonDate.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerHghestsales.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerPayment.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerQuantityCompare.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerSalesBillsResport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customersCategoryReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customersDetail.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerCompanyReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerTypeReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.overAllPurchasesFlow.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesBill.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesCompanyFlow.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesFlow.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.returnedPurchasesReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.cashBalance.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.safeFlowReports.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.safeTransferReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.add_subtractPermission.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.add_subtract_permission.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryFlow.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryList.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryStoreReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.historyCategory.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.minusCategoryReports.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeBalance.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeCategoryReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeCompanyReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeMaximumReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.StoreMinimumReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeTransformReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.typeList.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.supplierReturnedFlow.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.transportReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.companySalesFlow.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.highestBought.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.overallSaleFlow.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.salesBill.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.salesFlow.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.soloPackage.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.soloPackageCategory.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeCategoryReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.typeSalesFlow.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierBalance.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierCategoryReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierCategorySumReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierDetails.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierReturnedReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierTypeReports.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.usersTrafficReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.customers.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.customesrBalances.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.duesUC.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.exportCustomers.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.payDivision.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.ReDivideDebts.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.sales.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.sales.statement.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.settings.addUsers.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.settings.usersPrevilege.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.categoryAddPermission.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.categoryQuantities.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.categorySubtractPermission.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.destroyedAdding.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.showStore.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.storeDestroyedReport.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.store.transportStore.resources
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.CopyComplete
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.exe
+C:\Users\pc\Desktop\desktop\New folder (5)\SofterFertilizers\SofterFertilizers\obj\Debug\SofterFertilizers.pdb
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\Database.mdf
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\Database_log.ldf
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\SofterFertilizers.exe.config
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\SofterFertilizers.exe
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\SofterFertilizers.pdb
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ExcelLibrary.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.ResolveComReference.cache
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.companiesUC.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.importExcel.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.safeUC.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.saveToExcel.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.sortUC.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.storeAddingUC.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.subUnit.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.typeUC.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.BasicData.unitsUC.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceDetails.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceOwners.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.advanceReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.advance.payAdvances.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.anotherIncomes.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.fixedPotentials.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.generalSpendings.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansDetails.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansOwners.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.loansReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.loans.payLoans.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.partners.partnersData.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.partners.partnersOperations.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentailDamage.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentials.bankAccounts.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.potentials.initialMoney.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.calculations.transferBetweenSafe.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.abscence.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.additional.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.comeGoing.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employees.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employeesGeneralSettings.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.employeeSpecifiedSettings.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.late.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.abscenceReports.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.additionalReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.comeGoingReports.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.lateReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.wagesReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.wages.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.login.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.mainForm.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Properties.Resources.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.dollarCalculations.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.purchases.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.returnedPurchasesUC.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.Suppilers.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.purchases.suppliersBalances.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.anotherIncomeReports.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.balanceReview.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.partnerBalance.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.potentialDamageReprt.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.calculationsReport.spendingReports.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerBalanceDetails.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerCategorySumReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivision.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisionDetails.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisionPayment.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerDivisonDate.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerHghestsales.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerPayment.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerQuantityCompare.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerSalesBillsResport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customersCategoryReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customersDetail.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerCompanyReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customerTypeReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.overAllPurchasesFlow.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesBill.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesCompanyFlow.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.purchasesFlow.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.returnedPurchasesReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.cashBalance.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.safeFlowReports.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.safeTransferReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.add_subtractPermission.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.add_subtract_permission.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryFlow.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryList.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.categoryStoreReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.historyCategory.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.minusCategoryReports.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeBalance.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeCategoryReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeCompanyReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeMaximumReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.StoreMinimumReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.storeTransformReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeReports.typeList.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.supplierReturnedFlow.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.transportReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.companySalesFlow.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.highestBought.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.overallSaleFlow.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.salesBill.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.salesFlow.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.soloPackage.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.soloPackageCategory.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.storeCategoryReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.typeSalesFlow.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierBalance.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierCategoryReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierCategorySumReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierDetails.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierReturnedReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.supplierTypeReports.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.usersTrafficReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.sales.customers.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.sales.customesrBalances.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.sales.duesUC.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.sales.exportCustomers.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.sales.payDivision.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.sales.ReDivideDebts.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.sales.sales.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.sales.statement.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.settings.addUsers.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.settings.usersPrevilege.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.store.categoryAddPermission.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.store.categoryQuantities.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.store.categorySubtractPermission.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.store.destroyedAdding.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.store.showStore.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.store.storeDestroyedReport.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.store.transportStore.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.csproj.CopyComplete
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.exe
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.pdb
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Dashboard.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Dashboard.v19.2.Win.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Map.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.TreeMap.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraGauges.v19.2.Win.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraMap.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraTreeMap.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Dashboard.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Dashboard.v19.2.Win.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Map.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.TreeMap.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraGauges.v19.2.Presets.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraGauges.v19.2.Win.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraMap.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraTreeMap.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Dashboard.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Dashboard.v19.2.Win.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Map.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Presets.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.purchasesReport.Purchases_Visualization.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.exe.licenses
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.salesReport.salesVisualization.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.customersReport.customers_Visualization.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.employees.reports.employeesVisulaizationUC.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.suppliersReport.suppliersVisualizationUC.resources
+C:\Users\pc\Desktop\ERP-system-master\ERP-system-master\SofterFertilizers\obj\Debug\SofterFertilizers.Reports.safeReports.SafeVisualization.resources

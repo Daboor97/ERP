@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2610CDB3-80A1-4C33-B403-83EB215F8EF5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SofterFertilizers/calculations/loans/loansOwners.cs">
+    <Files>
+      <File FileName="SofterFertilizers/calculations/loans/loansOwners.cs" Line="203" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SofterFertilizers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
